@@ -1,0 +1,38 @@
+.one { 
+  width:500px;
+  height:500px;
+  color:aqua;
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+  
+}
+
+.two {
+	 width:500px;
+     height:500px;
+     color:#645CBB;
+	 background: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+}
+
+.three {
+	 width:500px;
+     height:500px;
+     color:rgb(146, 154, 155, 0.9);
+	 background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+.four {
+	width:500px;
+    height:500px;
+	color:hsl(85, 81%, 55%);
+	background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+
+.main-container {
+	display:flex;
+	flex-direction:row;
+}
+.five {
+	hyphens: auto;
+	width:600px;
+	
+}
